@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "2026-04-14_07-41-41")(type "KiCad")(uri "../../DC34-Mech-SAO/libraries/symbols/2026-04-14_07-41-41.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-04-14_07-41-41")(type "KiCad")(uri "../libraries/symbols/2026-04-14_07-41-41.kicad_sym")(options "")(descr ""))
 )
