@@ -15,5 +15,5 @@ so that this project is portable between computers.
 
 # Associated Repos
 Board firmware is developed in this repo: 
-[https://github.com/wildcat86/DC34-Mech-Badge](https://github.com/eggsactly/DcC4-Mech-SAO-Plugin-Demo)
+[ttps://github.com/eggsactly/DcC4-Mech-SAO-Plugin-Demo](https://github.com/eggsactly/DcC4-Mech-SAO-Plugin-Demo)
 
