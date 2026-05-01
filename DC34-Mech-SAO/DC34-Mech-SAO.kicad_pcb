@@ -6344,6 +6344,42 @@
 		(layer "Edge.Cuts")
 		(uuid "218e523e-38d0-4dcf-a193-0c0143c1599a")
 	)
+	(gr_text "UPDI"
+		(at 153.5 90 270)
+		(layer "F.SilkS")
+		(uuid "8029a9ea-7773-420f-8c9b-637556f640ed")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.07)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PWR"
+		(at 153.5 92.5 270)
+		(layer "F.SilkS")
+		(uuid "b4e1f880-824c-42e2-81a1-be89ae0110fe")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.07)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 153.5 95.5 270)
+		(layer "F.SilkS")
+		(uuid "55b75ee6-0915-4a12-a63c-335c24bb530d")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.07)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Missile Launcher"
 		(at 144.78 91.948 0)
 		(layer "F.SilkS")
@@ -6353,6 +6389,30 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+		)
+	)
+	(gr_text "Mech Fighters SAO Rev 1"
+		(at 153.5 81 0)
+		(layer "B.SilkS")
+		(uuid "110745f3-8e95-495c-8d75-cb4c0dbcb37c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Designed by CPEC in Arizona\nManufactured in China"
+		(at 143 92 0)
+		(layer "B.SilkS")
+		(uuid "a73b0a69-f11e-422e-b92f-49a40d868e1b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom mirror)
 		)
 	)
 	(via
