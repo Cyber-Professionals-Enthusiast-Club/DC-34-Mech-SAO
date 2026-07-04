@@ -5,6 +5,7 @@ CPEC DC 34 badge.
 # Structure 
 - Artis_art/ directory for art files (.svg vector graphics)
 - DC34-Mech-SAO/ directory for circuit board design files (kicad 6 project)
+- DC34-Mech-SAO-Firmware/ directory for the arduino file to load onto the SAO
 - libraries/ directory for kicad symbols and footprint files 
 
 ## Running
