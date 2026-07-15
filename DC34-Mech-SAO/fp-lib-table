@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "ATTINY817")(type "KiCad")(uri "../libraries/footprints/ATTINY817.pretty")(options "")(descr ""))
   (lib (name "ATTINY816")(type "KiCad")(uri "../libraries/footprints/ATTINY816.pretty")(options "")(descr ""))
+  (lib (name "UPDI_ICRP")(type "KiCad")(uri "../libraries/footprints/UPDI_ICRP.pretty")(options "")(descr ""))
 )
