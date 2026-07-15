@@ -8,4 +8,13 @@ _autosave-DC-34-Mech-SAO.kicad_sch
 *.png
 *.jpg
 *.jpeg
-
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+*.gm1
+*.gtl
+*.gts
+*.gtp
+*.gto
+*.history
