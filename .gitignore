@@ -17,4 +17,6 @@ _autosave-DC-34-Mech-SAO.kicad_sch
 *.gts
 *.gtp
 *.gto
+*.gbr
+*.gbrjob
 *.history
